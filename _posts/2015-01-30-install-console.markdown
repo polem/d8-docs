@@ -8,7 +8,7 @@ categories: drupal console
 [Console][drupal-console] permet d'ajouter des commandes, comme par exemple la génération de module, pour faciliter le développement avec Drupal.
 
 * Télécharger console `curl -LSs http://drupalconsole.com/installer | php`
-* Déplacer le fichier pour qu'il soit accessible de partout `mv console.phar /usr/local/bin/drupal`.
+* Déplacer le fichier pour qu'il soit accessible partout `mv console.phar /usr/local/bin/drupal`.
 * `drupal generate:module` pour générer un module.
 * `drupal router:debug` pour voir les routes.
 
