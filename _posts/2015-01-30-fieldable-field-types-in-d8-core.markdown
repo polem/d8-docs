@@ -6,6 +6,7 @@ categories: drupal core fields
 ---
 
 *Les types de champs dispo par defaut dans le core de Drupal 8*
+
 - boolean
 - comment
 - datetime
